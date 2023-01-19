@@ -1,7 +1,7 @@
 # :woman_teacher: Hi there, I’m Saharnaz 
 (She/Her/Hers)
-#### :woman_student: I am a graduate student, interested in education finance and financial economics. 
-#### 💻:books: Currently working on multiple large national survey data sets from IPEDS. 
+#### :woman_student: I am a graduate student, interested in Education Finance and Financial Economics. 
+#### 💻:books: Currently working on multiple large national survey data sets from IPEDS/NCES. 
 ## 
 ### Read more about me at: "https://saharnazbabaei.wixsite.com/home"
 
