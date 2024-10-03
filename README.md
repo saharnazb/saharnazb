@@ -3,7 +3,7 @@
 #### :woman_student: I am a graduate student, interested in Education Finance and Financial Economics. 
 #### 💻:books: Currently working on multiple large national survey data sets from IPEDS/NCES. 
 ## 
-### Read more about me at: "https://saharnazbabaei.wixsite.com/home"
+### Read more about me at: "https://www.Saharnaz.org"
 
 
 <!---
