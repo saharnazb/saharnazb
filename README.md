@@ -1,10 +1,18 @@
 # :woman_teacher: Hi there, I’m Saharnaz 
 (She/Her/Hers)
-#### :woman_student: I am a graduate student, interested in Education Finance and Financial Economics. 
-#### 💻:books: Currently working on multiple large national survey data sets from IPEDS/NCES. 
-## 
-### Read more about me at: "https://www.saharnaz.org"
+#### 🎓 Assistant Teaching Professor of Economics  
+University of Wisconsin–La Crosse  
 
+#### 📚 Ph.D. in Economics  
+Darla Moore School of Business, University of South Carolina  
+Specialized in applied microeconomics
+
+#### 💻 Currently working with large-scale national survey datasets  
+including IPEDS and NCES, with a focus on education policy and labor economics.
+
+---
+
+### 🔗 Learn more about my work at: [saharnaz.org](https://www.saharnaz.org)
 
 <!---
 (this file) appears on your GitHub profile.
