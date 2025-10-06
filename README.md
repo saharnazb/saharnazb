@@ -7,9 +7,6 @@ University of Wisconsin–La Crosse
 Darla Moore School of Business, University of South Carolina  
 Specialized in applied microeconomics
 
-#### 💻 Currently working with large-scale national survey datasets  
-including IPEDS and NCES, with a focus on education policy and labor economics.
-
 ---
 
 ### 🔗 Learn more about my work at: [saharnaz.org](https://www.saharnaz.org)
